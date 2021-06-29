@@ -1,0 +1,4 @@
+Dear Designer,
+Please don't forget add all your "enemy spawn point"s in to array which was attached "enemy spawn manager".
+Good Luck.
+Amed...
